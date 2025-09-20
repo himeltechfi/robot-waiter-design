@@ -41,12 +41,13 @@ The images below illustrate the conceptual design of the robot waiter, including
 
 #### Robot Platform Design
 
-![Internal Components](images/robot_diagram_back.PNG)
-![External View](images/robot_diagram_front.PNG)
+![External View](images/robot_diagram_front.png)
+![Internal Components](images/robot_diagram_back.png)
+
 
 #### Modular Function Flowchart
 
-![Functionality Flowchart](images/functionality_flowchart.PNG)
+![Functionality Flowchart](images/functionality_flowchart.png)
 
 ---
 
